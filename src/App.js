@@ -1,6 +1,6 @@
+// App.js
 import './App.css';
 import MainPage from './javascript/components/MainPage';
-
 
 function App() {
   return (
